@@ -1,0 +1,5 @@
+# Make sure that these files are treated as binary and 
+*.bin binary
+*.dump binary
+*.xcas binary
+*.xmi binary
